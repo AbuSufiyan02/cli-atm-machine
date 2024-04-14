@@ -1,5 +1,5 @@
 {
-  "name": "cli-atm-machine",
+  "name": "code_with_abusufyan_cli_atm_machine",
   "version": "1.0.0",
   "description": "a cli based atm machine",
   "main": "index.js",
