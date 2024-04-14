@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 console.log("\n\t\Welcome to Meezan Bank ATM\n");
 import inquirer from "inquirer";
 let myBalance = 10000;
