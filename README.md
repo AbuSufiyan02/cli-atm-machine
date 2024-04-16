@@ -1,2 +1,2 @@
-# cli-atm-machine
-A cli based atm machine using inquirer
+# CLI-ATM-Machine
+A CLI based ATM Machine using inquirer
