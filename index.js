@@ -43,10 +43,7 @@ if (pinAns.pin === myPincode) {
             message: "\nEnter your amount",
             type: "number"
         });
-        if (amountAns.amount > myBalance) {
-            console.log("\nInsufficient balance\n");
-        }
-        else if (amountAns.amount <= 0) {
+        if (amountAns.amount <= 0) {
             console.log("\nEnter a valid amount");
         }
         else if (myBalance += amountAns.amount) {
